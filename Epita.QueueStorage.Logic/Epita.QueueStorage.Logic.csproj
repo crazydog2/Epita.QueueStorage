@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Epita.QueueStorage.Logic.Contracts\Epita.QueueStorage.Logic.Contracts.csproj" />
+    <ProjectReference Include="..\Epita.QueueStorage.Services.Contracts\Epita.QueueStorage.Services.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
